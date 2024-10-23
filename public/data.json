@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "American",
+      "author": "America",
+      "publicationYear": 2002
+    },
+    {
+      "id": 2,
+      "title": "Swiss",
+      "author": "Switzerland",
+      "publicationYear": 1949
+    },
+    {
+      "id": 3,
+      "title": "Colby Jack",
+      "author": "Me in 1887",
+      "publicationYear": 1965
+    },
+    {
+      "id": 4,
+      "title": "Mozzerella",
+      "author": "Italy",
+      "publicationYear": 1902
+    },
+    {
+      "id": 5,
+      "title": "Pepper Jack",
+      "author": "Alex Gregory",
+      "publicationYear": 1972
+    }
+  ]
+  
